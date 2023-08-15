@@ -1,0 +1,12 @@
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/bin/Debug/net7.0/Presentation.deps.json
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/bin/Debug/net7.0/Presentation.dll
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/bin/Debug/net7.0/Presentation.pdb
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.csproj.AssemblyReference.cache
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.AssemblyInfoInputs.cache
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.AssemblyInfo.cs
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.csproj.CoreCompileInputs.cache
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.dll
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/refint/Presentation.dll
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/Presentation.pdb
+/Users/elvanunal/RiderProjects/MovieReviewApi/Presentation/Presentation/obj/Debug/net7.0/ref/Presentation.dll
