@@ -1,5 +1,5 @@
 # MovieReviewAPI
-MovieReviewAPI, API Katmanlı Mimari kullanılarak oluşturulmuştur. Bu proje, genel olarak "CRUD" (Create, Read, Update, Delete) işlemlerini ele alır ve ilişkili yapılar içerir. API, "fluent API" ile desteklenen ilişkili veri yapıları oluşturulmuştur. Bu ilişki yapısı "bire-çok" şeklindedir. Ayrıca projenin temelleri, "Repository Design Pattern" ile atılmıştır. API, "Extensions" metotları ile de zenginleştirilmiştir. Veri Transfer Nesneleri (DTO) ve AutoMapper kullanılarak veri aktarımı bunlar ile sağlanmıştır.
+MovieReviewAPI, API Katmanlı Mimari kullanılarak oluşturulmuştur. Bu proje, genel olarak "CRUD" (Create, Read, Update, Delete) işlemlerini ele alır ve ilişkili yapılar içerir. API, "fluent API" ile desteklenen ilişkili veri yapıları oluşturulmuştur. Bu ilişki yapısı "bire-çok" şeklindedir. Ayrıca projenin temelleri, "Repository Design Pattern" ile atılmıştır. API, "Extensions" metotları ile de zenginleştirilmiştir. Veri Transfer Nesneleri (DTO) ve AutoMapper kullanılarak veri aktarımı bunlar ile sağlanmıştır. Authentication ve Authorization ile proje zenginleştilirmiştir. 
 
 ---
 ## Proje Detayları
@@ -9,6 +9,7 @@ MovieReviewAPI, API Katmanlı Mimari kullanılarak oluşturulmuştur. Bu proje, 
 * API, "Extensions" metotları ile genişletilir ve ek işlevselliğe olanak tanır.
 * DTO' lar ile verilerin farklı katmanlar arasında kolayca taşınması sağlanır.
 * Prejede kullanmış olduğum "AutoMapper" sayesinde veri tabanı modelleri ile DTO'lar arasında otomatik dönüşüm sağlanır.
+* Authentication ve Authorization yapısı eklenmiştir.
   
 ---
 Bu proje, MovieReviewAPI için geliştirilmiş bir RESTful API sunar. İlişkili veri yapıları, "fluent API" sayesinde veritabanında düzenli ve tutarlı bir yapı oluşturulmasını sağlar. Ayrıca, "Repository Design Pattern" kullanılarak veritabanı işlemleri soyutlanmış, böylece kodun bakımı ve testi kolaylaştırılmıştır. "Extensions" metotları, API'ye ek işlevselliğin kolayca eklenmesini sağlar.
@@ -24,6 +25,7 @@ MovieReviewAPI has been developed using the API Layered Architecture. This proje
 * Enriched with "Extensions" methods, providing additional functionality.
 * Facilitates data transfer between different layers using DTOs.
 * Automapper enables automatic conversion between database models and DTOs.
+* The Authentication and Authorization structure has been added.
 
   ---
 This project offers a RESTful API for MovieReviewAPI. The use of the "fluent API" ensures a consistent and organized database structure for related data in a "one-to-many" relationship. Additionally, the "Repository Design Pattern" abstracts database operations, making maintenance and testing of the code easier. The inclusion of "Extensions" methods allows for easy extension of the API's functionality. Data Transfer Objects (DTOs) and AutoMapper are utilized to facilitate data transfer between different layers of the application.
